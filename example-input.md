@@ -1,0 +1,1 @@
+/oracle-db-development-handbook Create a procedure to  insert into emp_master (emp_id, emp_name )
