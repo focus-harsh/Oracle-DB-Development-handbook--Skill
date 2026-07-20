@@ -38,10 +38,9 @@ Now I simply describe the object I need, and Claude generates Oracle SQL & PL/SQ
 - 👨‍💻 Oracle SQL Developers
 - 👨‍💻 Oracle PL/SQL Developers
 - 🏢 Enterprise Development Teams
-- 🎓 Students Learning Oracle
+- 🎓 Students Learning Any Database
 - 🚀 AI-Assisted Developers
 - 👨‍🏫 Trainers & Mentors
-- 📚 Anyone who wants consistent Oracle code
 
 ---
 
