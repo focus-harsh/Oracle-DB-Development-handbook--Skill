@@ -261,23 +261,6 @@ This makes the project reusable for any technology stack.
 
 ---
 
-# 🌟 Roadmap
-
-Future versions will include:
-
-- Oracle Forms Standards
-- Oracle Reports Standards
-- Oracle APEX Standards
-- Automatic Code Review
-- Performance Tuning Suggestions
-- Unit Testing Templates
-- Database Design Guidelines
-- Migration Script Generator
-- Enterprise Coding Checklist
-- CI/CD Friendly Output
-
----
-
 # 🤝 Contributions
 
 Suggestions and improvements are always welcome.
@@ -323,9 +306,9 @@ I believe the best way to learn is to **build in public and help others along th
 
 https://harsh-portfolio-xi-khaki.vercel.app
 
-### 💼 LinkedIn Post about this Skill : 
+### 💼 LinkedIn : 
 
-https://www.linkedin.com/posts/activity-7485009944258338817-Ij7Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQ81BcBj8YiYrBziOO9kJ0Ex33gRzqIL2I
+https://www.linkedin.com/in/focusharsh/
 
 ---
 
