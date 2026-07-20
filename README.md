@@ -214,13 +214,13 @@ Watch how a single prompt becomes a production-ready Oracle database object in s
 
 ## 2. Invoke the Claude Skill
 
-![Invoke the Claude Skill](Screenshots/1-Write-the-Skill-name.png)
+![Invoke the Claude Skill](Screenshots/2-Write-the-Skill-name.png)
 
 ---
 
 ## 3. Oracle Procedure Generated
 
-![Oracle Procedure Generated](Screenshots/2-Procedure-created.png)
+![Oracle Procedure Generated](Screenshots/3-Procedure-created.png)
 
 ---
 
